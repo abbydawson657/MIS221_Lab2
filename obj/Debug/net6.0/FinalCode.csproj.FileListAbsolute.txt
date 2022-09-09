@@ -1,0 +1,15 @@
+/Users/abbydawson/Desktop/MIS221/FinalCode/bin/Debug/net6.0/FinalCode
+/Users/abbydawson/Desktop/MIS221/FinalCode/bin/Debug/net6.0/FinalCode.deps.json
+/Users/abbydawson/Desktop/MIS221/FinalCode/bin/Debug/net6.0/FinalCode.runtimeconfig.json
+/Users/abbydawson/Desktop/MIS221/FinalCode/bin/Debug/net6.0/FinalCode.dll
+/Users/abbydawson/Desktop/MIS221/FinalCode/bin/Debug/net6.0/FinalCode.pdb
+/Users/abbydawson/Desktop/MIS221/FinalCode/obj/Debug/net6.0/FinalCode.csproj.AssemblyReference.cache
+/Users/abbydawson/Desktop/MIS221/FinalCode/obj/Debug/net6.0/FinalCode.GeneratedMSBuildEditorConfig.editorconfig
+/Users/abbydawson/Desktop/MIS221/FinalCode/obj/Debug/net6.0/FinalCode.AssemblyInfoInputs.cache
+/Users/abbydawson/Desktop/MIS221/FinalCode/obj/Debug/net6.0/FinalCode.AssemblyInfo.cs
+/Users/abbydawson/Desktop/MIS221/FinalCode/obj/Debug/net6.0/FinalCode.csproj.CoreCompileInputs.cache
+/Users/abbydawson/Desktop/MIS221/FinalCode/obj/Debug/net6.0/FinalCode.dll
+/Users/abbydawson/Desktop/MIS221/FinalCode/obj/Debug/net6.0/refint/FinalCode.dll
+/Users/abbydawson/Desktop/MIS221/FinalCode/obj/Debug/net6.0/FinalCode.pdb
+/Users/abbydawson/Desktop/MIS221/FinalCode/obj/Debug/net6.0/FinalCode.genruntimeconfig.cache
+/Users/abbydawson/Desktop/MIS221/FinalCode/obj/Debug/net6.0/ref/FinalCode.dll
