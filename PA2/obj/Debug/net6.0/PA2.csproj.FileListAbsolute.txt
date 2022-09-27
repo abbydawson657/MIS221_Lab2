@@ -1,0 +1,15 @@
+/Users/abbydawson/Desktop/MIS221/PA2/bin/Debug/net6.0/PA2
+/Users/abbydawson/Desktop/MIS221/PA2/bin/Debug/net6.0/PA2.deps.json
+/Users/abbydawson/Desktop/MIS221/PA2/bin/Debug/net6.0/PA2.runtimeconfig.json
+/Users/abbydawson/Desktop/MIS221/PA2/bin/Debug/net6.0/PA2.dll
+/Users/abbydawson/Desktop/MIS221/PA2/bin/Debug/net6.0/PA2.pdb
+/Users/abbydawson/Desktop/MIS221/PA2/obj/Debug/net6.0/PA2.csproj.AssemblyReference.cache
+/Users/abbydawson/Desktop/MIS221/PA2/obj/Debug/net6.0/PA2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/abbydawson/Desktop/MIS221/PA2/obj/Debug/net6.0/PA2.AssemblyInfoInputs.cache
+/Users/abbydawson/Desktop/MIS221/PA2/obj/Debug/net6.0/PA2.AssemblyInfo.cs
+/Users/abbydawson/Desktop/MIS221/PA2/obj/Debug/net6.0/PA2.csproj.CoreCompileInputs.cache
+/Users/abbydawson/Desktop/MIS221/PA2/obj/Debug/net6.0/PA2.dll
+/Users/abbydawson/Desktop/MIS221/PA2/obj/Debug/net6.0/refint/PA2.dll
+/Users/abbydawson/Desktop/MIS221/PA2/obj/Debug/net6.0/PA2.pdb
+/Users/abbydawson/Desktop/MIS221/PA2/obj/Debug/net6.0/PA2.genruntimeconfig.cache
+/Users/abbydawson/Desktop/MIS221/PA2/obj/Debug/net6.0/ref/PA2.dll
